@@ -3,7 +3,7 @@
 <h2>👋 Hi, I’m Jones Kadomoto
  <br />
  <br />
-Full Stack Developer Trainee
+Full stack development intern at SBT
 </h2>
  
 <div style="margin: 100px;">
