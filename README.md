@@ -5,7 +5,6 @@
  <br />
 Full Stack Developer Trainee
 </h2>
-<br />
  
 <div style="margin: 100px;">
  <h3> Languages and Tools: </h3>
